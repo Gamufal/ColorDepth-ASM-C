@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ColorDepthApp/.vs/ColorDepth/FileContentIndex/0deb16c1-8839-43ab-a50a-0bc5554a2660.vsidx
+/ColorDepthApp/.vs/ColorDepth/FileContentIndex/7fcf2c20-8d89-4325-9e87-6090ca9e9c2d.vsidx
+/ColorDepthApp/.vs/ColorDepth/v17
+/ColorDepthApp/bin/Debug/net8.0-windows
+/ColorDepthApp/obj
